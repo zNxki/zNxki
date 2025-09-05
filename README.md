@@ -26,6 +26,9 @@
   <img alt="VisualStudioCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </p>
 <div align="center">
+<samp>
+  <br>
+</samp>
 <h3>📊 Stats</h3>
 <samp>
   <br>

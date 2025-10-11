@@ -36,5 +36,7 @@
   </div>
   <img width="100px" src="https://komarev.com/ghpvc/?username=nikipro50&style=flat-square&color=90acd0" />
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikipro50&show_icons=true&locale=en&theme=dracula&border_radius=15&hide_border=true&title_color=90acd0" alt="nikipro50" width="340" />
+  <img align="center" alt="nikipro50's GitHub Stats" style="margin-top:20px;" height="170px" src="https://github-readme-stats.vercel.app/api?username=nikipro50&show_icons=true&theme=github_dark">
+  <br><br>
+  <img align="center" alt="nikipro50's Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikipro50&theme=github_dark&layout=compact">  
 </div>

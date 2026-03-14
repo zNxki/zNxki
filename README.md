@@ -34,7 +34,7 @@
   <br>
 </samp>
 <h3>📊 Stats</h3>
-  <img align="center" alt="nikipro50's GitHub Stats" style="margin-top:20px;" height="170px" src="https://github-readme-stats.vercel.app/api?username=nikipro50&show_icons=true&theme=github_dark">
+  <img align="center" alt="nikipro50's GitHub Stats" style="margin-top:20px;" height="170px" src="https://github-readme-stats.vercel.app/api?username=zNxki&show_icons=true&theme=github_dark">
   <br><br>
-  <img align="center" alt="nikipro50's Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikipro50&theme=github_dark&layout=compact">  
+  <img align="center" alt="nikipro50's Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNxki&theme=github_dark&layout=compact">  
 </div>

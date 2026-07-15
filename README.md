@@ -29,7 +29,14 @@
   <img alt="PyCharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">
   <img alt="VisualStudioCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </p>
+<hr/>
+  
 <div align="center">
 <samp>
   <br>
 </samp>
+  <h3>📊 Stats</h3>
+  <br>
+  <img src="https://github.com/zNxki/github-stats/blob/generated/overview.svg#gh-dark-mode-only">
+  <img src="https://github.com/zNxki/github-stats/blob/generated/languages.svg#gh-dark-mode-only">
+</div>

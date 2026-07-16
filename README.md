@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ciao%2C+sono+zNxki+%F0%9F%91%8B;Full+Stack+Developer;Sempre+in+cerca+di+nuove+sfide" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+zNxki+%F0%9F%91%8B;Full+Stack+Developer;Always+chasing+new+challenges" alt="Typing SVG" />
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 <br/>
 
-## 🛠️ Linguaggi e Strumenti
+## 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,py,php,rust,mysql,sqlite&theme=dark" />
@@ -23,7 +23,7 @@
 
 <br/>
 
-## 📊 Statistiche GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -36,9 +36,15 @@
 
 <div align="center">
 
-### 📫 Contattami
+### 📫 Get in Touch
 
 <a href="https://t.me/Fascijsta"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://discord.znxki.it"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer"/>
 </div>
